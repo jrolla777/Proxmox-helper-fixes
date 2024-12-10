@@ -4,7 +4,7 @@ source <(curl -s https://raw.githubusercontent.com/tteck/Proxmox/main/misc/build
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
-
+## Updated: Justin Moore 2024 (consoles removed from recent Prometheus releases breaks tteck's script)
 function header_info {
 clear
 cat <<"EOF"
