@@ -4,7 +4,7 @@
 # Author: tteck (tteckster)
 # License: MIT
 # https://github.com/tteck/Proxmox/raw/main/LICENSE
-
+## Updated: Justin Moore 2024 (consoles removed from recent Prometheus releases breaks tteck's script)
 source /dev/stdin <<< "$FUNCTIONS_FILE_PATH"
 color
 verb_ip6
